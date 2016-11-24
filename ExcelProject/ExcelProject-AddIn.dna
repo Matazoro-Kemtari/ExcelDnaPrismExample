@@ -1,5 +1,5 @@
-<DnaLibrary Name="FExcel Add-In" RuntimeVersion="v4.0">
-  <ExternalLibrary Path="FExcel.dll" LoadFromBytes="true" Pack="true" />
+<DnaLibrary Name="ExcelProject Add-In" RuntimeVersion="v4.0">
+  <ExternalLibrary Path="ExcelProject.dll" LoadFromBytes="true" Pack="true" />
   
   <!-- 
        The RuntimeVersion attribute above allows two settings:

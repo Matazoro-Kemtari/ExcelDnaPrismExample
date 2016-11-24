@@ -69,13 +69,9 @@ H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\ExcelUtil-AddIn.dna
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\MvvmProject-AddIn.dna
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\ExcelProject-AddIn.dna
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\ExcelProject-AddIn.xll.config
-H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\FExcel.dll.config
-H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\FExcel.dll
-H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\FExcel.pdb
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\AvalonLibrary.dll
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\ExcelApi.dll
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\ExcelUtil.dll
-H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\FExcelMvvm.dll
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\log4net.dll
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
@@ -97,7 +93,6 @@ H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\System.Reactive.PlatformServices
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\System.Windows.Interactivity.dll
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\VBIDEApi.dll
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\ExcelUtil.pdb
-H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\FExcelMvvm.pdb
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\AvalonLibrary.xml
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\ExcelApi.xml
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\log4net.xml
@@ -130,5 +125,10 @@ H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\ru\System.Windows.Interactivity.
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
 H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
 H:\C# Projekte\PrismTest\ExcelProject\obj\Debug\ExcelProject.csprojResolveAssemblyReference.cache
-H:\C# Projekte\PrismTest\ExcelProject\obj\Debug\FExcel.dll
-H:\C# Projekte\PrismTest\ExcelProject\obj\Debug\FExcel.pdb
+H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\ExcelProject.dll.config
+H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\ExcelProject.dll
+H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\ExcelProject.pdb
+H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\MvvmProject.dll
+H:\C# Projekte\PrismTest\ExcelProject\bin\Debug\MvvmProject.pdb
+H:\C# Projekte\PrismTest\ExcelProject\obj\Debug\ExcelProject.dll
+H:\C# Projekte\PrismTest\ExcelProject\obj\Debug\ExcelProject.pdb
