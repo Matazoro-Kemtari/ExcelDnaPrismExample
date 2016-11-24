@@ -16,6 +16,7 @@ namespace ExcelProject
 
         public void AutoClose()
         {
+
         }
 
         public void AutoOpen()
