@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="MvvmProject.View.TestView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:mvvm="clr-namespace:Microsoft.Practices.Prism.Mvvm;assembly=Microsoft.Practices.Prism.Mvvm.Desktop"
+             xmlns:avp="clr-namespace:MvvmProject.View.AttachedProperties"
+             mvvm:ViewModelLocator.AutoWireViewModel="True"
+             avp:DesiredSize.DesiredWidth="800"
+             avp:DesiredSize.DesiredHeight="200"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid Background="LightBlue">
+        <StackPanel>
+            <TextBlock Text="Test View"/>
+            <TextBlock Text="{Binding TestProperty}"/>
+            <TextBox Text="Test Input"/>
+            
+            <!--
+                Simple Combobox to test Airspace problem
+                If problem occured, would likely encounter strange GUI behavior when expanding the Combobox on runtime.
+                However, Airspace issue not expected to occur / should be circumvented in our solution.
+            -->
+            <ComboBox>
+                <ComboBoxItem>test1</ComboBoxItem>
+                <ComboBoxItem>test2</ComboBoxItem>
+            </ComboBox>
+            
+            <Button Content="Test Excel (Queue as Macro)" Command="{Binding AccessExcelQueued}"/>
+            <Button Content="Test Excel (Direct Access)" Command="{Binding AccessExcelDirectly}"/>
+        </StackPanel>
+    </Grid>
+</UserControl>
